@@ -1,0 +1,3 @@
+// Install react-icons for social media icons
+// Run this in your frontend directory:
+// npm install react-icons
